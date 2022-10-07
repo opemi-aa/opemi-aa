@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @opemi-aa
 - 👀 I’m interested in becoming an AI dev.
 - 🌱 I’m currently learning Python programming.
-- 💞️ I’m looking to collaborate on AI projects.
+- 💞️ I’m looking to collaborate on Cybersecurity projects.
 - 📫 How to reach me |Twitter @opemi_aa| |IG @_opemi.aa|
 
 <!---
